@@ -16,11 +16,13 @@ Once a match has been loaded, click on any of the champion icons to begin the ma
 
 ## Controls
 
+```
 Movement: Arrow Keys or WASD
 Jump: Space Bar
 Crouch: Left Shift Key or Left Ctrl Key
 Shoot: F or J
 Pause: Escape
+```
 
 ## Procedural Generation
 
