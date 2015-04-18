@@ -4,6 +4,24 @@
 
 Urf's Revenge is a 2D platform shooter, using League of Legends API data to procedurally generate enemies. The game client is built in the freely available Unity Engine, with a Python script hosted on Google App Engine to power the API requests.
 
+## Loading A Match
+
+There are three ways to load up a match in Urf's Revenge
+
+1. Use the summoner lookup tool to find the 10 most recent games played, then select the desired match
+2. Use a random match from the server's cache of match data
+3. Enter a specific match ID, this can be found on the Match History details page by looking at the URL (ie. http://matchhistory.na.leagueoflegends.com/en/#match-details/NA1/XXXXXXXXXX)
+
+Once a match has been loaded, click on any of the champion icons to begin the match as that champion.
+
+## Controls
+
+Movement: Arrow Keys or WASD
+Jump: Space Bar
+Crouch: Left Shift Key or Left Ctrl Key
+Shoot: F or J
+Pause: Escape
+
 ## Procedural Generation
 
 The player continues to level up throughout each section of the game.  There are a number of match values that affect statistics in the game, in the form of a "growth stat" which defines how the stat scales with levels.
