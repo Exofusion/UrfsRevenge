@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: b6287ac1a8efc8b4c98b2f71ff7f72b4
+timeCreated: 1428770227
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Aquaria - Projectiles_0
+    21300002: PC Computer - Aquaria - Projectiles_1
+    21300004: PC Computer - Aquaria - Projectiles_2
+    21300006: PC Computer - Aquaria - Projectiles_3
+    21300008: PC Computer - Aquaria - Projectiles_4
+    21300010: PC Computer - Aquaria - Projectiles_5
+    21300012: PC Computer - Aquaria - Projectiles_6
+    21300014: PC Computer - Aquaria - Projectiles_7
+    21300016: PC Computer - Aquaria - Projectiles_8
+    21300018: PC Computer - Aquaria - Projectiles_9
+    21300020: PC Computer - Aquaria - Projectiles_10
+    21300022: PC Computer - Aquaria - Projectiles_11
+    21300024: PC Computer - Aquaria - Projectiles_12
+    21300026: PC Computer - Aquaria - Projectiles_13
+    21300028: PC Computer - Aquaria - Projectiles_14
+    21300030: PC Computer - Aquaria - Projectiles_15
+    21300032: PC Computer - Aquaria - Projectiles_16
+    21300034: PC Computer - Aquaria - Projectiles_17
+    21300036: PC Computer - Aquaria - Projectiles_18
+    21300038: PC Computer - Aquaria - Projectiles_19
+    21300040: PC Computer - Aquaria - Projectiles_20
+    21300042: PC Computer - Aquaria - Projectiles_21
+    21300044: PC Computer - Aquaria - Projectiles_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Aquaria - Projectiles_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 370
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 369
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 376
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 374
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 351
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 346
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 364
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 293
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 287
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 264
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 252
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 257
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 238
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_13
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 262
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 165
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 172
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 158
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 170
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 162
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 157
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Aquaria - Projectiles_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 59
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
